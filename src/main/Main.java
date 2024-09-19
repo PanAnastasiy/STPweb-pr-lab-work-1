@@ -14,8 +14,7 @@ package main;
 */
 
 
-// Импорт fdsfsdfsdf
-// И что я написал?
+// Импорт библиотек
 
 import design_classes.Console;
 import design_classes.Design;
