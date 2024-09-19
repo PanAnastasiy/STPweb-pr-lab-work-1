@@ -14,7 +14,8 @@ package main;
 */
 
 
-// Импорт клубники
+// Импорт fdsfsdfsdf
+// И что я написал?
 
 import design_classes.Console;
 import design_classes.Design;
