@@ -13,6 +13,8 @@ package main;
  Подсчитать общую численность и количество племен знакомых с огнем.
 */
 
+
+// Импорт библиотек
 import design_classes.Console;
 import design_classes.Design;
 import design_classes.Developer;
