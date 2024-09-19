@@ -14,7 +14,8 @@ package main;
 */
 
 
-// Импорт библиотек
+// Импорт клубники
+
 import design_classes.Console;
 import design_classes.Design;
 import design_classes.Developer;
